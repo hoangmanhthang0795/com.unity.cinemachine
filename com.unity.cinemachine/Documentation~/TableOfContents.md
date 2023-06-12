@@ -42,6 +42,7 @@
             * [Third Person Aim extension](CinemachineThirdPersonAim.md)
             * [Recomposer extension](CinemachineRecomposer.md)
         * [Scene Handles](handles.md)
+    * [Use in Scene View](CinemachineUsingInSceneView.md)
     * [Saving in Play Mode](CinemachineSavingDuringPlay.md)
     * [Using Spline paths](CinemachineUsingSplinePaths.md)
     	* [Cinemachine Spline Roll](CinemachineSplineRoll.md)
