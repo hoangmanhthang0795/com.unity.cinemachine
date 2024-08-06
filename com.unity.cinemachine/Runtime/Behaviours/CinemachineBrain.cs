@@ -360,7 +360,7 @@ namespace Cinemachine
 #endif
         }
 
-#if UNITY_EDITOR
+#if UNITY_EDITOR && CINEMACHINE_DEBUG
         private void OnGUI()
         {
             if (CinemachineDebug.OnGUIHandlers != null)
